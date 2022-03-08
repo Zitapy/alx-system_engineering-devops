@@ -1,2 +1,2 @@
 #!/bin/bash
-id -u -n
+echo "User name ID (UID) : $_uid"
